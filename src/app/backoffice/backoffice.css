@@ -1,0 +1,18 @@
+
+.backoffice-layout {
+    display: flex;
+    height: 100vh;
+}
+
+.backoffice-layout .menu {
+    flex: 1;
+    background-color: #f0f0f0;
+    padding: 20px;
+    overflow: auto;
+}
+
+.backoffice-layout .pages {
+    flex: 3;
+    padding: 20px;
+    overflow: auto;
+}
